@@ -1,0 +1,36 @@
+﻿								
+Compare cell means with others in its row and its column								
+								
+Number of families	4							
+Number of comparisons per row family	1							
+Number of comparisons per column family	1							
+Alpha	0.05							
+								
+Uncorrected Fisher's LSD	Mean Diff.	95.00% CI of diff.	Below threshold?	Summary	Individual P Value			
+								
+  0 h								
+    Proliferation phase vs. Stationary phase	-0.8800	-1.157 to -0.6031	Yes	****	<0.0001			
+								
+  19 h								
+    Proliferation phase vs. Stationary phase	-0.09923	-0.3762 to 0.1777	No	ns	0.4326			
+								
+  Proliferation phase								
+    0 h vs. 19 h	-0.8327	-1.110 to -0.5558	Yes	***	0.0001			
+								
+  Stationary phase								
+    0 h vs. 19 h	-0.05193	-0.3289 to 0.2250	No	ns	0.6768			
+								
+								
+Test details	Mean 1	Mean 2	Mean Diff.	SE of diff.	N1	N2	t	DF
+								
+  0 h								
+    Proliferation phase vs. Stationary phase	0.01150	0.8915	-0.8800	0.1201	3	3	7.328	8.000
+								
+  19 h								
+    Proliferation phase vs. Stationary phase	0.8442	0.9435	-0.09923	0.1201	3	3	0.8263	8.000
+								
+  Proliferation phase								
+    0 h vs. 19 h	0.01150	0.8442	-0.8327	0.1201	3	3	6.934	8.000
+								
+  Stationary phase								
+    0 h vs. 19 h	0.8915	0.9435	-0.05193	0.1201	3	3	0.4325	8.000

@@ -1,0 +1,68 @@
+﻿								
+Compare cell means with others in its row and its column								
+								
+Number of families	6							
+Number of comparisons per row family	1							
+Number of comparisons per column family	6							
+Alpha	0.05							
+								
+Tukey's multiple comparisons test	Mean Diff.	95.00% CI of diff.	Below threshold?	Summary	Adjusted P Value			
+								
+  CM								
+    Without microorganisms vs. With microorganisms	14.71	12.92 to 16.50	Yes	****	<0.0001			
+								
+  20%TE								
+    Without microorganisms vs. With microorganisms	0.7961	-0.9930 to 2.585	No	ns	0.3596			
+								
+  40%TE								
+    Without microorganisms vs. With microorganisms	-0.7084	-2.498 to 1.081	No	ns	0.4136			
+								
+  60%TE								
+    Without microorganisms vs. With microorganisms	-0.08450	-1.874 to 1.705	No	ns	0.9215			
+								
+  Without microorganisms								
+    CM vs. 20%TE	24.15	21.74 to 26.57	Yes	****	<0.0001			
+    CM vs. 40%TE	14.63	12.22 to 17.05	Yes	****	<0.0001			
+    CM vs. 60%TE	4.095	1.681 to 6.510	Yes	***	0.0009			
+    20%TE vs. 40%TE	-9.522	-11.94 to -7.107	Yes	****	<0.0001			
+    20%TE vs. 60%TE	-20.06	-22.47 to -17.64	Yes	****	<0.0001			
+    40%TE vs. 60%TE	-10.54	-12.95 to -8.122	Yes	****	<0.0001			
+								
+  With microorganisms								
+    CM vs. 20%TE	10.24	7.824 to 12.65	Yes	****	<0.0001			
+    CM vs. 40%TE	-0.7879	-3.202 to 1.627	No	ns	0.7875			
+    CM vs. 60%TE	-10.70	-13.12 to -8.286	Yes	****	<0.0001			
+    20%TE vs. 40%TE	-11.03	-13.44 to -8.612	Yes	****	<0.0001			
+    20%TE vs. 60%TE	-20.94	-23.35 to -18.52	Yes	****	<0.0001			
+    40%TE vs. 60%TE	-9.913	-12.33 to -7.498	Yes	****	<0.0001			
+								
+								
+Test details	Mean 1	Mean 2	Mean Diff.	SE of diff.	N1	N2	q	DF
+								
+  CM								
+    Without microorganisms vs. With microorganisms	35.10	20.39	14.71	0.8440	3	3	24.65	16.00
+								
+  20%TE								
+    Without microorganisms vs. With microorganisms	10.95	10.15	0.7961	0.8440	3	3	1.334	16.00
+								
+  40%TE								
+    Without microorganisms vs. With microorganisms	20.47	21.18	-0.7084	0.8440	3	3	1.187	16.00
+								
+  60%TE								
+    Without microorganisms vs. With microorganisms	31.01	31.09	-0.08450	0.8440	3	3	0.1416	16.00
+								
+  Without microorganisms								
+    CM vs. 20%TE	35.10	10.95	24.15	0.8440	3	3	40.47	16.00
+    CM vs. 40%TE	35.10	20.47	14.63	0.8440	3	3	24.52	16.00
+    CM vs. 60%TE	35.10	31.01	4.095	0.8440	3	3	6.863	16.00
+    20%TE vs. 40%TE	10.95	20.47	-9.522	0.8440	3	3	15.96	16.00
+    20%TE vs. 60%TE	10.95	31.01	-20.06	0.8440	3	3	33.61	16.00
+    40%TE vs. 60%TE	20.47	31.01	-10.54	0.8440	3	3	17.66	16.00
+								
+  With microorganisms								
+    CM vs. 20%TE	20.39	10.15	10.24	0.8440	3	3	17.16	16.00
+    CM vs. 40%TE	20.39	21.18	-0.7879	0.8440	3	3	1.320	16.00
+    CM vs. 60%TE	20.39	31.09	-10.70	0.8440	3	3	17.93	16.00
+    20%TE vs. 40%TE	10.15	21.18	-11.03	0.8440	3	3	18.48	16.00
+    20%TE vs. 60%TE	10.15	31.09	-20.94	0.8440	3	3	35.09	16.00
+    40%TE vs. 60%TE	21.18	31.09	-9.913	0.8440	3	3	16.61	16.00

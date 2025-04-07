@@ -1,0 +1,36 @@
+﻿								
+Compare cell means with others in its row and its column								
+								
+Number of families	4							
+Number of comparisons per row family	1							
+Number of comparisons per column family	1							
+Alpha	0.05							
+								
+Uncorrected Fisher's LSD	Mean Diff.	95.00% CI of diff.	Below threshold?	Summary	Individual P Value			
+								
+  19 h								
+    Without microorganisms vs. With microorganisms	2.541	2.148 to 2.935	Yes	****	<0.0001			
+								
+  72 h								
+    Without microorganisms vs. With microorganisms	0.4152	0.02209 to 0.8082	Yes	*	0.0408			
+								
+  Without microorganisms								
+    19 h vs. 72 h	0.08963	-0.3034 to 0.4827	No	ns	0.6133			
+								
+  With microorganisms								
+    19 h vs. 72 h	-2.037	-2.430 to -1.644	Yes	****	<0.0001			
+								
+								
+Test details	Mean 1	Mean 2	Mean Diff.	SE of diff.	N1	N2	t	DF
+								
+  19 h								
+    Without microorganisms vs. With microorganisms	2.547	0.005933	2.541	0.1705	3	3	14.91	8.000
+								
+  72 h								
+    Without microorganisms vs. With microorganisms	2.458	2.043	0.4152	0.1705	3	3	2.436	8.000
+								
+  Without microorganisms								
+    19 h vs. 72 h	2.547	2.458	0.08963	0.1705	3	3	0.5258	8.000
+								
+  With microorganisms								
+    19 h vs. 72 h	0.005933	2.043	-2.037	0.1705	3	3	11.95	8.000

@@ -1,0 +1,90 @@
+﻿								
+Compare cell means with others in its row and its column								
+								
+Number of families	7							
+Number of comparisons per row family	1							
+Number of comparisons per column family	10							
+Alpha	0.05							
+								
+Tukey's multiple comparisons test	Mean Diff.	95.00% CI of diff.	Below threshold?	Summary	Adjusted P Value			
+								
+  CM								
+    Without microorganisms vs. With microorganisms	20.30	19.33 to 21.27	Yes	****	<0.0001			
+								
+  10%TE								
+    Without microorganisms vs. With microorganisms	2.832	1.865 to 3.799	Yes	****	<0.0001			
+								
+  20%TE								
+    Without microorganisms vs. With microorganisms	4.667	3.700 to 5.634	Yes	****	<0.0001			
+								
+  40%TE								
+    Without microorganisms vs. With microorganisms	6.571	5.604 to 7.538	Yes	****	<0.0001			
+								
+  60%TE								
+    Without microorganisms vs. With microorganisms	13.42	12.45 to 14.38	Yes	****	<0.0001			
+								
+  Without microorganisms								
+    CM vs. 10%TE	24.10	22.71 to 25.49	Yes	****	<0.0001			
+    CM vs. 20%TE	20.33	18.94 to 21.72	Yes	****	<0.0001			
+    CM vs. 40%TE	12.15	10.76 to 13.53	Yes	****	<0.0001			
+    CM vs. 60%TE	4.052	2.664 to 5.439	Yes	****	<0.0001			
+    10%TE vs. 20%TE	-3.769	-5.156 to -2.382	Yes	****	<0.0001			
+    10%TE vs. 40%TE	-11.95	-13.34 to -10.57	Yes	****	<0.0001			
+    10%TE vs. 60%TE	-20.05	-21.44 to -18.66	Yes	****	<0.0001			
+    20%TE vs. 40%TE	-8.185	-9.573 to -6.798	Yes	****	<0.0001			
+    20%TE vs. 60%TE	-16.28	-17.67 to -14.89	Yes	****	<0.0001			
+    40%TE vs. 60%TE	-8.094	-9.481 to -6.707	Yes	****	<0.0001			
+								
+  With microorganisms								
+    CM vs. 10%TE	6.630	5.243 to 8.017	Yes	****	<0.0001			
+    CM vs. 20%TE	4.697	3.310 to 6.084	Yes	****	<0.0001			
+    CM vs. 40%TE	-1.585	-2.972 to -0.1973	Yes	*	0.0204			
+    CM vs. 60%TE	-2.835	-4.222 to -1.447	Yes	****	<0.0001			
+    10%TE vs. 20%TE	-1.933	-3.321 to -0.5461	Yes	**	0.0038			
+    10%TE vs. 40%TE	-8.215	-9.602 to -6.827	Yes	****	<0.0001			
+    10%TE vs. 60%TE	-9.465	-10.85 to -8.078	Yes	****	<0.0001			
+    20%TE vs. 40%TE	-6.281	-7.669 to -4.894	Yes	****	<0.0001			
+    20%TE vs. 60%TE	-7.532	-8.919 to -6.144	Yes	****	<0.0001			
+    40%TE vs. 60%TE	-1.250	-2.637 to 0.1371	No	ns	0.0900			
+								
+								
+Test details	Mean 1	Mean 2	Mean Diff.	SE of diff.	N1	N2	q	DF
+								
+  CM								
+    Without microorganisms vs. With microorganisms	28.12	7.816	20.30	0.4636	3	3	61.93	20.00
+								
+  10%TE								
+    Without microorganisms vs. With microorganisms	4.018	1.186	2.832	0.4636	3	3	8.638	20.00
+								
+  20%TE								
+    Without microorganisms vs. With microorganisms	7.787	3.119	4.667	0.4636	3	3	14.24	20.00
+								
+  40%TE								
+    Without microorganisms vs. With microorganisms	15.97	9.401	6.571	0.4636	3	3	20.05	20.00
+								
+  60%TE								
+    Without microorganisms vs. With microorganisms	24.07	10.65	13.42	0.4636	3	3	40.92	20.00
+								
+  Without microorganisms								
+    CM vs. 10%TE	28.12	4.018	24.10	0.4636	3	3	73.52	20.00
+    CM vs. 20%TE	28.12	7.787	20.33	0.4636	3	3	62.02	20.00
+    CM vs. 40%TE	28.12	15.97	12.15	0.4636	3	3	37.05	20.00
+    CM vs. 60%TE	28.12	24.07	4.052	0.4636	3	3	12.36	20.00
+    10%TE vs. 20%TE	4.018	7.787	-3.769	0.4636	3	3	11.50	20.00
+    10%TE vs. 40%TE	4.018	15.97	-11.95	0.4636	3	3	36.47	20.00
+    10%TE vs. 60%TE	4.018	24.07	-20.05	0.4636	3	3	61.16	20.00
+    20%TE vs. 40%TE	7.787	15.97	-8.185	0.4636	3	3	24.97	20.00
+    20%TE vs. 60%TE	7.787	24.07	-16.28	0.4636	3	3	49.66	20.00
+    40%TE vs. 60%TE	15.97	24.07	-8.094	0.4636	3	3	24.69	20.00
+								
+  With microorganisms								
+    CM vs. 10%TE	7.816	1.186	6.630	0.4636	3	3	20.23	20.00
+    CM vs. 20%TE	7.816	3.119	4.697	0.4636	3	3	14.33	20.00
+    CM vs. 40%TE	7.816	9.401	-1.585	0.4636	3	3	4.834	20.00
+    CM vs. 60%TE	7.816	10.65	-2.835	0.4636	3	3	8.647	20.00
+    10%TE vs. 20%TE	1.186	3.119	-1.933	0.4636	3	3	5.898	20.00
+    10%TE vs. 40%TE	1.186	9.401	-8.215	0.4636	3	3	25.06	20.00
+    10%TE vs. 60%TE	1.186	10.65	-9.465	0.4636	3	3	28.87	20.00
+    20%TE vs. 40%TE	3.119	9.401	-6.281	0.4636	3	3	19.16	20.00
+    20%TE vs. 60%TE	3.119	10.65	-7.532	0.4636	3	3	22.98	20.00
+    40%TE vs. 60%TE	9.401	10.65	-1.250	0.4636	3	3	3.814	20.00

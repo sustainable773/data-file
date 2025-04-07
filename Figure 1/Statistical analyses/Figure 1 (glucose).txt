@@ -1,0 +1,35 @@
+﻿								
+Number of families	1							
+Number of comparisons per family	10							
+Alpha	0.05							
+								
+Tukey's multiple comparisons test	Mean Diff.	95.00% CI of diff.	Below threshold?	Summary	Adjusted P Value			
+  CM vs. 10% TE	-52.33	-64.63 to -40.04	Yes	****	<0.0001	A-B		
+  CM vs. 20% TE	-111.7	-124.0 to -99.37	Yes	****	<0.0001	A-C		
+  CM vs. 40% TE	-233.0	-245.3 to -220.7	Yes	****	<0.0001	A-D		
+  CM vs. 60% TE	-357.0	-369.3 to -344.7	Yes	****	<0.0001	A-E		
+  10% TE vs. 20% TE	-59.33	-71.63 to -47.04	Yes	****	<0.0001	B-C		
+  10% TE vs. 40% TE	-180.7	-193.0 to -168.4	Yes	****	<0.0001	B-D		
+  10% TE vs. 60% TE	-304.7	-317.0 to -292.4	Yes	****	<0.0001	B-E		
+  20% TE vs. 40% TE	-121.3	-133.6 to -109.0	Yes	****	<0.0001	C-D		
+  20% TE vs. 60% TE	-245.3	-257.6 to -233.0	Yes	****	<0.0001	C-E		
+  40% TE vs. 60% TE	-124.0	-136.3 to -111.7	Yes	****	<0.0001	D-E		
+								
+Test details	Mean 1	Mean 2	Mean Diff.	SE of diff.	n1	n2	q	DF
+  CM vs. 10% TE	7.000	59.33	-52.33	3.736	3	3	19.81	10
+  CM vs. 20% TE	7.000	118.7	-111.7	3.736	3	3	42.27	10
+  CM vs. 40% TE	7.000	240.0	-233.0	3.736	3	3	88.21	10
+  CM vs. 60% TE	7.000	364.0	-357.0	3.736	3	3	135.1	10
+  10% TE vs. 20% TE	59.33	118.7	-59.33	3.736	3	3	22.46	10
+  10% TE vs. 40% TE	59.33	240.0	-180.7	3.736	3	3	68.39	10
+  10% TE vs. 60% TE	59.33	364.0	-304.7	3.736	3	3	115.3	10
+  20% TE vs. 40% TE	118.7	240.0	-121.3	3.736	3	3	45.93	10
+  20% TE vs. 60% TE	118.7	364.0	-245.3	3.736	3	3	92.87	10
+  40% TE vs. 60% TE	240.0	364.0	-124.0	3.736	3	3	46.94	10
+								
+Compact letter display								
+  60% TE	A							
+  40% TE	B							
+  20% TE	C							
+  10% TE	D							
+  CM	E							

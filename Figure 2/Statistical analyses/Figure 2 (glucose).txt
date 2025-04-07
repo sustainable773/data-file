@@ -1,0 +1,36 @@
+﻿								
+Compare cell means with others in its row and its column								
+								
+Number of families	4							
+Number of comparisons per row family	1							
+Number of comparisons per column family	1							
+Alpha	0.05							
+								
+Uncorrected Fisher's LSD	Mean Diff.	95.00% CI of diff.	Below threshold?	Summary	Individual P Value			
+								
+  Without microorganisms								
+    Proliferation phase vs. Stationary phase	6.333	-57.36 to 70.03	No	ns	0.8244			
+								
+  With microorganisms								
+    Proliferation phase vs. Stationary phase	0.000	-63.70 to 63.70	No	ns	>0.9999			
+								
+  Proliferation phase								
+    Without microorganisms vs. With microorganisms	388.7	325.0 to 452.4	Yes	****	<0.0001			
+								
+  Stationary phase								
+    Without microorganisms vs. With microorganisms	382.3	318.6 to 446.0	Yes	****	<0.0001			
+								
+								
+Test details	Mean 1	Mean 2	Mean Diff.	SE of diff.	N1	N2	t	DF
+								
+  Without microorganisms								
+    Proliferation phase vs. Stationary phase	388.7	382.3	6.333	27.62	3	3	0.2293	8.000
+								
+  With microorganisms								
+    Proliferation phase vs. Stationary phase	0.000	0.000	0.000	27.62	3	3	0.000	8.000
+								
+  Proliferation phase								
+    Without microorganisms vs. With microorganisms	388.7	0.000	388.7	27.62	3	3	14.07	8.000
+								
+  Stationary phase								
+    Without microorganisms vs. With microorganisms	382.3	0.000	382.3	27.62	3	3	13.84	8.000

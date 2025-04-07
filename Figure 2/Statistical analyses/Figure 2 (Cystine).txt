@@ -1,0 +1,30 @@
+﻿	
+Table Analyzed	Data 22
+	
+Column B	With microorganisms
+vs.	vs.
+Column A	Without microorganisms
+	
+Unpaired t test	
+    P value	0.0011
+    P value summary	**
+    Significantly different (P < 0.05)?	Yes
+    One- or two-tailed P value?	Two-tailed
+    t, df	t=8.497, df=4
+	
+How big is the difference?	
+    Mean of column A	0.005767
+    Mean of column B	0.03123
+    Difference between means (B - A) ± SEM	0.02547 ± 0.002997
+    95% confidence interval	0.01715 to 0.03379
+    R squared (eta squared)	0.9475
+	
+F test to compare variances	
+    F, DFn, Dfd	620.8, 2, 2
+    P value	0.0032
+    P value summary	**
+    Significantly different (P < 0.05)?	Yes
+	
+Data analyzed	
+    Sample size, column A	3
+    Sample size, column B	3

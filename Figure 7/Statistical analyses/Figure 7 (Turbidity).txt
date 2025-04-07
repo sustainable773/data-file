@@ -1,0 +1,36 @@
+﻿								
+Compare cell means with others in its row and its column								
+								
+Number of families	4							
+Number of comparisons per row family	1							
+Number of comparisons per column family	1							
+Alpha	0.05							
+								
+Uncorrected Fisher's LSD	Mean Diff.	95.00% CI of diff.	Below threshold?	Summary	Individual P Value			
+								
+  0 h								
+    CM vs. 100％ TE	0.0006000	-0.02146 to 0.02266	No	ns	0.9515			
+								
+  19 h								
+    CM vs. 100％ TE	-0.1111	-0.1332 to -0.08904	Yes	****	<0.0001			
+								
+  CM								
+    0 h vs. 19 h	-0.5478	-0.5699 to -0.5258	Yes	****	<0.0001			
+								
+  100％ TE								
+    0 h vs. 19 h	-0.6595	-0.6816 to -0.6375	Yes	****	<0.0001			
+								
+								
+Test details	Mean 1	Mean 2	Mean Diff.	SE of diff.	N1	N2	t	DF
+								
+  0 h								
+    CM vs. 100％ TE	0.001967	0.001367	0.0006000	0.009566	3	3	0.06272	8.000
+								
+  19 h								
+    CM vs. 100％ TE	0.5498	0.6609	-0.1111	0.009566	3	3	11.61	8.000
+								
+  CM								
+    0 h vs. 19 h	0.001967	0.5498	-0.5478	0.009566	3	3	57.27	8.000
+								
+  100％ TE								
+    0 h vs. 19 h	0.001367	0.6609	-0.6595	0.009566	3	3	68.94	8.000
