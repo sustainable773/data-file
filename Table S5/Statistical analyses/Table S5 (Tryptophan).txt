@@ -1,0 +1,30 @@
+﻿	
+Table Analyzed	Data 102
+	
+Column B	72 h
+vs.	vs.
+Column A	19 h
+	
+Unpaired t test	
+    P value	0.0002
+    P value summary	***
+    Significantly different (P < 0.05)?	Yes
+    One- or two-tailed P value?	Two-tailed
+    t, df	t=13.97, df=4
+	
+How big is the difference?	
+    Mean of column A	-0.01060
+    Mean of column B	-0.1332
+    Difference between means (B - A) ± SEM	-0.1226 ± 0.008772
+    95% confidence interval	-0.1469 to -0.09821
+    R squared (eta squared)	0.9799
+	
+F test to compare variances	
+    F, DFn, Dfd	68.33, 2, 2
+    P value	0.0288
+    P value summary	*
+    Significantly different (P < 0.05)?	Yes
+	
+Data analyzed	
+    Sample size, column A	3
+    Sample size, column B	3

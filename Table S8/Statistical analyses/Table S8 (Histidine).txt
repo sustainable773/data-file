@@ -1,0 +1,30 @@
+﻿	
+Table Analyzed	Data 4
+	
+Column B	Shaking method
+vs.	vs.
+Column A	Acidic hydrolysis method
+	
+Unpaired t test	
+    P value	0.0037
+    P value summary	**
+    Significantly different (P < 0.05)?	Yes
+    One- or two-tailed P value?	Two-tailed
+    t, df	t=6.089, df=4
+	
+How big is the difference?	
+    Mean of column A	112.8
+    Mean of column B	293.0
+    Difference between means (B - A) ± SEM	180.2 ± 29.59
+    95% confidence interval	98.02 to 262.3
+    R squared (eta squared)	0.9026
+	
+F test to compare variances	
+    F, DFn, Dfd	53.78, 2, 2
+    P value	0.0365
+    P value summary	*
+    Significantly different (P < 0.05)?	Yes
+	
+Data analyzed	
+    Sample size, column A	3
+    Sample size, column B	3
